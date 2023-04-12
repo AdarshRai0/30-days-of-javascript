@@ -9,3 +9,7 @@
 # Day3-kippo-profile-cards [Live](https://adarshrai0.github.io/30-days-of-javascript/Day3%20-%20Kippo-profile-cards) <hr>
 ![image](https://user-images.githubusercontent.com/91651054/231469463-dd479b1f-4e5d-427c-b237-aaaba2593983.png)
 <hr>
+
+# Day4 - Gradient Generator [Live](https://adarshrai0.github.io/30-days-of-javascript/Day4%20-%20Gradient%20Generator) <hr>
+![image](https://user-images.githubusercontent.com/91651054/231477153-d506af0d-3ca9-4507-99ce-4bcdc8693957.png)
+<hr>
