@@ -13,3 +13,7 @@
 # Day4 - Gradient Generator [Live](https://adarshrai0.github.io/30-days-of-javascript/Day4%20-%20Gradient%20Generator) <hr>
 ![image](https://user-images.githubusercontent.com/91651054/231477153-d506af0d-3ca9-4507-99ce-4bcdc8693957.png)
 <hr>
+
+# Day5 - Guess The Word Game [Live](https://adarshrai0.github.io/30-days-of-javascript/Day5%20-%20Guess%20The%20Word%20Game) <hr>
+![image](https://user-images.githubusercontent.com/91651054/231805552-6c93729b-dc33-484e-8d17-f5b7d33b0a55.png)
+<hr>
