@@ -17,3 +17,11 @@
 # Day5 - Guess The Word Game [Live](https://adarshrai0.github.io/30-days-of-javascript/Day5%20-%20Guess%20The%20Word%20Game) <hr>
 ![image](https://user-images.githubusercontent.com/91651054/231805552-6c93729b-dc33-484e-8d17-f5b7d33b0a55.png)
 <hr>
+
+# Day6 Draggable Image Slider [Live](https://dragable-img-slider.netlify.app/) <hr>
+
+![image](https://github.com/AdarshRai0/100-Days-100-Js-Project/assets/91651054/8ce584b3-81bc-4a32-96aa-a4e6dd2f6818)
+<hr>
+<p>In my draggable image slider, there are some images where users can slide them by dragging or using the next and previous icons. On the desktop screen,
+there is shown three images at a time but on the mobile screen, there will show one image at a time.</p>
+
