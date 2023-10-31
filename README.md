@@ -20,7 +20,8 @@
 
 # Day6 Draggable Image Slider [Live](https://dragable-img-slider.netlify.app/)
 
-![image](https://github.com/AdarshRai0/100-Days-100-Js-Project/assets/91651054/8ce584b3-81bc-4a32-96aa-a4e6dd2f6818)
+![image](https://github.com/AdarshRai0/30-days-of-javascript/assets/91651054/d5073423-5bf7-4e92-83c6-a4376104b716)
+
 <hr>
 <p>In my draggable image slider, there are some images where users can slide them by dragging or using the next and previous icons. On the desktop screen,
 there is shown three images at a time but on the mobile screen, there will show one image at a time.</p>
