@@ -18,7 +18,7 @@
 ![image](https://user-images.githubusercontent.com/91651054/231805552-6c93729b-dc33-484e-8d17-f5b7d33b0a55.png)
 <hr>
 
-# Day6 Draggable Image Slider [Live](https://dragable-img-slider.netlify.app/) <hr>
+# Day6 Draggable Image Slider [Live](https://dragable-img-slider.netlify.app/)
 
 ![image](https://github.com/AdarshRai0/100-Days-100-Js-Project/assets/91651054/8ce584b3-81bc-4a32-96aa-a4e6dd2f6818)
 <hr>
